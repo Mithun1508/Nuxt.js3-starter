@@ -31,22 +31,22 @@ Nuxt Starter Kit is an opinionated boilerplate based off of Nuxt3(beta), with al
 
 # Supabase support Features
 
-1 Authentication System with Supabase GoTrue
+1. Authentication System with Supabase GoTrue
 
-2 User Profiles available on /profile as an example for Supabase PostgREST (CRUD API)
+2. User Profiles available on /profile as an example for Supabase PostgREST (CRUD API)
 
-3 User Avatar which is Supbase Storage(AWS S3 backed effortless uploads) supported
+3. User Avatar which is Supbase Storage(AWS S3 backed effortless uploads) supported
 and a bunch of pre-made, hand-rolled(easily replace-able) components, that you almost always end up installing/using for any non-trivial project
 
-4 Button Button with DaisyUI style support for all the basic use cases
+4. Button Button with DaisyUI style support for all the basic use cases
 
-5 Alert/Toast to notify your users of the outcome of an event - success, errorordefault` is supported
+5. Alert/Toast to notify your users of the outcome of an event - success, errorordefault` is supported
 
-6 Modal(feat. Headless UI) as you always come back to `em
+6. Modal(feat. Headless UI) as you always come back to `em
 
-7 Loaders for reporting the progress of an API call + a page load
+7. Loaders for reporting the progress of an API call + a page load
 
-8 Avatar for user avatar's
+8. Avatar for user avatar's
 
 # To start the project locally, run:
  yarn dev
