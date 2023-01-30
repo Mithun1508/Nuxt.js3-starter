@@ -2,7 +2,7 @@
 # Nuxt.js 3 + Supabase starter for Typescript lovers
 Nuxt Starter Kit is an opinionated boilerplate based off of Nuxt3(beta), with all the bells and whistles you would want ready, up and running when starting a Nuxt project to play and experiment with.
 
-#TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
 1) Typescript as the language choice
 
