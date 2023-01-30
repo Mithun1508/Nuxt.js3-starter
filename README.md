@@ -2,23 +2,31 @@
 # Nuxt.js 3 + Supabase starter for Typescript lovers
 Nuxt Starter Kit is an opinionated boilerplate based off of Nuxt3(beta), with all the bells and whistles you would want ready, up and running when starting a Nuxt project to play and experiment with.
 
-# TECHNOLOGIES USED
+# TECHNOLOGIES and TOOLS USED
 
-1) Typescript as the language choice
+ # 1) Typescript
+   as the language choice
 
-2)Tailwind CSS for quick styling without getting out of your HTML
+# 2)Tailwind CSS 
+   for quick styling without getting out of your HTML
 
-3)Daisy UI for pre-made TailwindCSS component classes
+# 3)Daisy UI 
+   for pre-made TailwindCSS component classes
 
-4)Tailwind UI for robust headless logic you can use for components like Dialog/Modal, Dropdown, List, etc.
+# 4)Tailwind UI 
+   for robust headless logic you can use for components like Dialog/Modal, Dropdown, List, etc.
 
-5)FontSource for effortless custom font integration
+# 5)FontSource 
+   for effortless custom font integration
 
-6)Icons through Unplugin for thousands of icons as components that are available on-demand and universally
+# 6)Icons through Unplugin 
+ for thousands of icons as components that are available on-demand and universally
 
-7)ESLint for static code analysis (added but it's currently failing due to #171) and
+# 7)ESLint 
+ for static code analysis (added but it's currently failing due to #171) and
 
-8)Prettier for code formatting
+# 8)Prettier 
+ for code formatting
 
 
 # Supabase support Features
@@ -29,7 +37,6 @@ Nuxt Starter Kit is an opinionated boilerplate based off of Nuxt3(beta), with al
 
 3) User Avatar which is Supbase Storage(AWS S3 backed effortless uploads) supported
 and a bunch of pre-made, hand-rolled(easily replace-able) components, that you almost always end up installing/using for any non-trivial project
-
 
 4)Button Button with DaisyUI style support for all the basic use cases
 
